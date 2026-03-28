@@ -11,3 +11,6 @@ Search "python" in Google, open the first link, and then download. If it asks, a
 
 ### What is the purpose?
 I want to keep my learning progress safe and share it.
+
+### Can i make PR's?
+Yes! Feel free to make pull requests, but please, don't remove the jokes!
