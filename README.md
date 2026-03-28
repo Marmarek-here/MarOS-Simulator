@@ -21,10 +21,11 @@ Fedora/RHEL (Red Hat Enterprise Linux):
 sudo dnf install python
 ```
 On macOS, Apple removed Python 2 as a preinstalled package. To install, you have 2 methods:
-1. Install from python.org
+1. Install from python.org   
 Or if you prefer homebrew
-2. brew install python
-
+2. ```
+   brew install python
+   ```
 ### What is the purpose?
 I want to keep my learning progress safe and share it.
 
