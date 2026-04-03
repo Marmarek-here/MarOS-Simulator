@@ -1,7 +1,7 @@
 # MarOS - OS emulator based on Python
 
 ### What is the goal?
-The goal of this is for me to learn while keeping all the code. But expect bugs and kind of fucked up code! :)
+The goal of this is for me to learn while keeping all the code. But expect bugs, questionable code, some face palms and a kind of fucked up code! :)
 
 ### How to install?
 Navigate to GitHub Releases, click latest release, download "MarOS.py".
