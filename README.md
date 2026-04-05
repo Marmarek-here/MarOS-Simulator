@@ -4,10 +4,10 @@
 The goal of this is for me to learn while keeping all the code. But expect bugs, questionable code, some face palms and a kind of fucked up code! :)
 
 ### How to install?
-Navigate to GitHub Releases, click latest release, download "MarOS.py".
+Navigate to GitHub Releases, click latest release, download "MarOS-vX.X.X.py" (X is a number)
 
 ### How to run it?
-Go to the folder with the downloaded file, right-click on free space (where you won't select files), "Open in terminal" and type "python MarOS.py".
+Go to the folder with the downloaded file, right-click on free space (where you won't select files), "Open in terminal" and type "python MarOS-vX.X.X.py".
 
 ### Python isn't a command
 Search "python" in Google, open the first link, and then download. If it asks, add it to $PATH, now you have it. On Linux, it's preinstalled, if not, then:
